@@ -103,6 +103,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: BORDER_COLOR,
     borderRadius: 10,
+    backgroundColor: "#87CEEB",
   },
   weatherDetailsRow: {
     flexDirection: "row",
